@@ -39,5 +39,9 @@ int main ()
     
     return 0;
     }
-    
+
+
+A++; //incrementa en una unidad el valor de A
+A--; //decremententa en una unidad el valor de A 
+
 
